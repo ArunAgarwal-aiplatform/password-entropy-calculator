@@ -1,0 +1,30 @@
+Enter a password to analyze: MyP@ssw0rd123!
+
+----------------------------------------
+Password Entropy Calculator
+----------------------------------------
+Password length: 14
+Unique characters: 13
+
+Character sets used:
+- Lowercase: Yes
+- Uppercase: Yes
+- Digits: Yes
+- Symbols: Yes
+
+Character pool size: 94
+Character-set entropy: 91.76 bits
+
+Shannon entropy per character: 3.80 bits
+Total Shannon entropy: 53.15 bits
+
+Strength rating: Strong
+
+Why:
+- Good length
+- Uses multiple character types
+- Some repetition lowers actual entropy slightly
+
+Suggestions:
+- Looks good! No immediate changes needed.
+----------------------------------------
