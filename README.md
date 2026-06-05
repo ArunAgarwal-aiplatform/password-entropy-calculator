@@ -68,8 +68,8 @@ Strength rating: Strong
 
 ## Screenshots
 
-![Input Example](./screenshots/input-example.png)
-![Output Report](./screenshots/output-report.png)
+![Input Example](./screenshots/sample-input.png)
+![Output Report](./screenshots/sample-output.png)
 
 ## What I learned
 
